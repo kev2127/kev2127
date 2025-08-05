@@ -10,10 +10,10 @@ Soy un entusiasta del **Desarrollo de Software** con formación integral en múl
 Aprendo y aplico procesos clave en el diseño, creación y mantenimiento de software. Desde la escritura de código hasta las pruebas, trabajando en colaboración con equipos y clientes.
 
 ### 🗄️ Bases de Datos
-Conozco diferentes tipos de bases de datos, incluyendo **relacionales** y **NoSQL**, utilizadas para almacenar y gestionar la información de manera eficiente en distintas aplicaciones.
+Manejo el modelado y diseño de bases de datos relacionales (SQL) y no relacionales (NoSQL), consultas y normalización, Gestion y mantenimiento de datos
 
 ### 👨‍💻 Programación
-Manejo varios lenguajes de programación como **Html**, **Python** y **Css**, los cuales aplico en el desarrollo de aplicaciones **web** y **móviles**.
+Tengo conocimiento en  lenguajes de programación como **Html**, **Python** y **Css**, los cuales aplico en el desarrollo de aplicaciones **web** y **móviles**.
 
 ### 📈 Metodologías Ágiles
 Utilizo metodologías como **Scrum** para gestionar proyectos de software, lo que me permite adaptarme rápidamente a los cambios y mejorar la productividad del equipo.
@@ -31,6 +31,8 @@ He reforzado mi perfil profesional con cursos en:
 - Medio ambiente
 - Y otras áreas clave para el desarrollo integral en el mundo laboral.
 
+### 🧠 En constante aprendizaje
+Me motivo y me apasiona seguir aprendiendo cada dia mas y perfeccionar mis habilidades y crecer mucho como analista y desarrollador de software
 ---
 
 ## 📫 ¿Quieres conectar?
