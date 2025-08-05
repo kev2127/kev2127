@@ -32,7 +32,7 @@ He reforzado mi perfil profesional con cursos en:
 - Y otras áreas clave para el desarrollo integral en el mundo laboral.
 
 ### 🧠 En constante aprendizaje
-Me motivo y me apasiona seguir aprendiendo cada dia mas y perfeccionar mis habilidades y crecer mucho como analista y desarrollador de software
+Me motivo y me apasiona seguir aprendiendo cada día más para perfeccionar mis habilidades y crecer mucho como analista y desarrollador de software
 ---
 
 ## 📫 ¿Quieres conectar?
