@@ -33,7 +33,7 @@ He reforzado mi perfil profesional con cursos en:
 
 ### 🧠 En constante aprendizaje
 Me motivo y me apasiona seguir aprendiendo cada día más para perfeccionar mis habilidades y crecer mucho como analista y desarrollador de software
----
+
 
 ## 📫 ¿Quieres conectar?
 No dudes en explorar mis repositorios o contactarme para colaborar en proyectos interesantes. ¡Gracias por visitar mi perfil!
