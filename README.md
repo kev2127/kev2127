@@ -13,7 +13,7 @@ Aprendo y aplico procesos clave en el diseño, creación y mantenimiento de soft
 Conozco diferentes tipos de bases de datos, incluyendo **relacionales** y **NoSQL**, utilizadas para almacenar y gestionar la información de manera eficiente en distintas aplicaciones.
 
 ### 👨‍💻 Programación
-Manejo varios lenguajes de programación como **Java**, **Python** y **JavaScript**, los cuales aplico en el desarrollo de aplicaciones **web** y **móviles**.
+Manejo varios lenguajes de programación como **Html**, **Python** y **Css**, los cuales aplico en el desarrollo de aplicaciones **web** y **móviles**.
 
 ### 📈 Metodologías Ágiles
 Utilizo metodologías como **Scrum** para gestionar proyectos de software, lo que me permite adaptarme rápidamente a los cambios y mejorar la productividad del equipo.
