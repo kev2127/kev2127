@@ -13,7 +13,7 @@ Aprendo y aplico procesos clave en el diseño, creación y mantenimiento de soft
 Manejo el modelado y diseño de bases de datos relacionales (SQL) y no relacionales (NoSQL), consultas y normalización, Gestion y mantenimiento de datos
 
 ### 👨‍💻 Programación
-Tengo conocimiento en  lenguajes de programación como **Html**, **Python** , **Css**, **JavaScript** los cuales aplico en el desarrollo de aplicaciones **web** y **móviles**.
+Tengo conocimiento en  lenguajes de programación como **Html**, **Python** , **Css**, **JavaScript**. los cuales aplico en el desarrollo de aplicaciones **web** y **móviles**.
 
 ### 📈 Metodologías Ágiles
 Utilizo metodologías como **Scrum** para gestionar proyectos de software, lo que me permite adaptarme rápidamente a los cambios y mejorar la productividad del equipo.
